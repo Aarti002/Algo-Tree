@@ -61,3 +61,12 @@ int main()
 	
 	return 0;
 }
+
+//Time Complexity: O(n^2)
+//e.g : input:-5		(n-size of array)
+/*		1 4 10 5 2		(arr[]-values of array)
+		9			(sum)
+	output:	10			(result- as we are suppose to find the smallest sum greater than sum)
+	*/
+
+
